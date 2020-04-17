@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Trabajos para curso Capstone
+This notebook will be mainly used for the capstone project
